@@ -1,11 +1,11 @@
 ## Hi there 👋
-### I'm Ayush. I'm a computational biologist and a systems engineer. I am a PhD candidate in Control and Dynamical Systems at California Institute of Technology, working on modeling and analysis of synthetic biological circuits. I am working with Richard Murray in the [Biocircuits Lab](https://murray.cds.caltech.edu/Main_Page). 
+### I'm Ayush. On Github, I'm a systems engineer and computational biologist. 
 
 * 👨🏽‍💻 Website: [caltech.edu/~apandey](http://www.its.caltech.edu/~apandey/)
 * 🐤 Twitter: [@ayush9pandey](https://twitter.com/ayush9pandey)
 * ⚗️ [Google Scholar](https://scholar.google.com/citations?user=dl98f5UAAAAJ&hl=en)
-* ✉️ Email me at: apandey [at] caltech.edu
-- 🔭 I’m currently working on a systems design tool for biological systems ✨ _Coming Soon&trade;_ ✨ 
+* ✉️ Email me at: ayushpandey [at] ucmerced.edu
+- 🔭 I’m currently working on a large-scale systems design tool for biological systems ✨ _Coming Soon&trade;_ ✨ 
 <!-- - 🌱 I’m currently learning -->
 - 👯 I’m looking to collaborate on [bioscrape](https://github.com/biocircuits/bioscrape/) for biological data analysis
 <!-- - 🤔 I’m looking for help with -->
