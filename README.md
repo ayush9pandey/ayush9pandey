@@ -13,11 +13,11 @@
 - 📫 How to reach me: electronic mail.
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: --> 
-
+<!--
 <p align="center">
 <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ayush9pandey&count_private=true&show_icons=true&theme=graywhite">
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush9pandey">
-</p>
+</p>-->
