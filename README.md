@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Ayush. On Github, I'm a systems engineer and computational biologist. 
 
-* 👨🏽‍💻 Website: [caltech.edu/~apandey](http://www.its.caltech.edu/~apandey/)
+* 👨🏽‍💻 Website: [ayush-pandey.github.io](https://ayush-pandey.github.io/)
 * 🐤 Twitter: [@ayush9pandey](https://twitter.com/ayush9pandey)
 * ⚗️ [Google Scholar](https://scholar.google.com/citations?user=dl98f5UAAAAJ&hl=en)
 * ✉️ Email me at: ayushpandey [at] ucmerced.edu
