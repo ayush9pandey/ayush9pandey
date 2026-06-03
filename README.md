@@ -11,5 +11,3 @@
 <!-- - 💬 Ask me about: --> 
 - 📫 How to reach me: electronic mail.
 - 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact: --> 
-<!--
